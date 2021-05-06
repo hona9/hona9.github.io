@@ -35,4 +35,11 @@ span.capsule {
 .btn-code:hover {
     background-color: #e4c583;
 }
+.btn-unclickable{
+    background-color: #bdbdbd;
+    color: #7c7c7c;
+}
+.noHover{
+    pointer-events: none;
+}
 
